@@ -1,0 +1,31 @@
+
+/*index*/
+
+.list {
+	display: inline-block;
+	text-decoration: none;
+	font-size:110%;	
+
+}
+span{
+	color: white;
+}
+#parraf{
+	text-indent: 10%;
+	letter-spacing: 7%;
+}
+.img{
+	width: 50%;
+	height:50% ;
+	margin: 2% 3%;
+
+
+}
+
+
+
+
+
+
+
+
